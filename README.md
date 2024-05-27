@@ -36,6 +36,3 @@ Je suis une développeuse passionnée par l'informatique, la musique et les jeux
 - [LinkedIn](https://www.linkedin.com/in/alicia-olivieri-783611252/)
 - [Email](mailto:alicia.stageit@gmail.com)
 
----
-
-![Footer](https://e1.pxfuel.com/desktop-wallpaper/150/316/desktop-wallpaper-han-sooyoung.jpg)
