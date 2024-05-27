@@ -11,7 +11,7 @@ Je suis une développeuse passionnée par l'informatique et les jeux-vidéos.
 - 📫 Comment me contacter : [Email](mailto:alicia.olivieri2@gmail.com)
 
 ## Langages et Outils :
-- ![Langage](https://img.shields.io/badge/Langage-niveau-brightgreen)
+- ![Langage](https://img.shields.io/badge/Langage-niveau-brightgreen) Python, JavaFX, JavaScript, C++, C#, HTML, CSS, PHP, Bash, SQL
 - ![Outil](https://img.shields.io/badge/Outil-usage-blue)
 
 ## Compétences
