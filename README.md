@@ -31,7 +31,7 @@ Je suis une développeuse passionnée par l'informatique et les jeux-vidéos. J'
   - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## 📊 Statistiques GitHub :
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=areihub&show_icons=true&hide_title=true&theme=radical)
 
 ## 🔗 Contactez-moi :
 - [LinkedIn](https://www.linkedin.com/in/alicia-olivieri-783611252/)
