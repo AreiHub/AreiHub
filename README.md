@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @AreiHub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Bienvenue sur mon profil GitHub !
 
-<!---
-AreiHub/AreiHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je suis une développeuse curieuse qui aime l'informatique en général.
+
+## Compétences
+- Langages : Python, JavaFX, JavaScript, C++, C#, HTML, CSS, PHP, Bash, SQL
+- Outils : Docker, Git, Jenkins, Visual Studio Code, IntelliJ, Microsoft Office
+
+## Contactez-moi
+- [LinkedIn](https://www.linkedin.com/in/alicia-olivieri-783611252/)
+
