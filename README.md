@@ -1,11 +1,10 @@
 ![Header](https://i.pinimg.com/originals/1a/55/19/1a5519d8682e582b297a377c4bd00374.jpg)
 
-# Salut, je suis Alicia 👋
+# Salut, je suis Arei 👋
 
-Je suis une développeuse passionnée par l'informatique et les jeux-vidéos. J'aime explorer de nouvelles technologies et travailler sur des projets innovants.
+Je suis une développeuse passionnée par l'informatique, la musique et les jeux-vidéos. J'aime explorer de nouvelles technologies et travailler sur des projets innovants.
 
 - 🔭 Je travaille actuellement sur [mon Portofolio]
-- 🌱 J'apprends actuellement [le Rust]
 - 👯 Je cherche à collaborer sur des projets open source
 - 📫 Comment me contacter : [Email](mailto:alicia.stageit@gmail.com)
 
@@ -39,4 +38,4 @@ Je suis une développeuse passionnée par l'informatique et les jeux-vidéos. J'
 
 ---
 
-![Footer](https://example.com/your-footer-image.png)
+![Footer](https://e1.pxfuel.com/desktop-wallpaper/150/316/desktop-wallpaper-han-sooyoung.jpg)
