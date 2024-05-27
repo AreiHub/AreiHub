@@ -1,27 +1,42 @@
+![Header](https://example.com/your-header-image.png)
 
-- ![Header]([https://example.com/your-header-image.png](https://www.pinterest.fr/offsite/?token=507-387&url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2f%2F25%2F8f%2F2f258f74f2c4a8fe0f4e60587d96e7bb.jpg&pin=284852745174101568&client_tracking_params=CwABAAAAEDI2ODU5NjQ1NjQ5OTkxMzgGAAMABwsABwAAAApuZ2FwaS9wcm9kAA&aux_data=%7B%22commerce_data%22%3A%7B%7D%7D))
+# Salut, je suis Alicia 👋
 
-# Salut, je suis [Alicia] 👋
-
-Je suis une développeuse passionnée par l'informatique et les jeux-vidéos.
+Je suis une développeuse passionnée par l'informatique et les jeux-vidéos. J'aime explorer de nouvelles technologies et travailler sur des projets innovants.
 
 - 🔭 Je travaille actuellement sur [mon Portofolio]
 - 🌱 J'apprends actuellement [le Rust]
 - 👯 Je cherche à collaborer sur des projets open source
-- 📫 Comment me contacter : [Email](mailto:alicia.olivieri2@gmail.com)
+- 📫 Comment me contacter : [Email](mailto:alicia.stageit@gmail.com)
 
-## Langages et Outils :
-- ![Langage](https://img.shields.io/badge/Langage-niveau-brightgreen) Python, JavaFX, JavaScript, C++, C#, HTML, CSS, PHP, Bash, SQL
-- ![Outil](https://img.shields.io/badge/Outil-usage-blue)
+## 🌟 Langages et Outils :
+- **Langages** :
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Compétences
-- Langages : Python, JavaFX, JavaScript, C++, C#, HTML, CSS, PHP, Bash, SQL
-- Outils : Docker, Git, Jenkins, Visual Studio Code, IntelliJ, Microsoft Office
+- **Outils** :
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
+  - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## Contactez-moi
+## 📊 Statistiques GitHub :
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&theme=radical)
+
+## 🔗 Contactez-moi :
 - [LinkedIn](https://www.linkedin.com/in/alicia-olivieri-783611252/)
+- [Email](mailto:alicia.stageit@gmail.com)
 
+---
 
-
-
-
+![Footer](https://example.com/your-footer-image.png)
