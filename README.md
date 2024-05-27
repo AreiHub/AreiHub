@@ -4,9 +4,6 @@
 
 Je suis une développeuse passionnée par l'informatique, la musique et les jeux-vidéos. J'aime explorer de nouvelles technologies et travailler sur des projets innovants.
 
-- 🔭 Je travaille actuellement sur mon Portofolio
-- 👯 Je cherche à collaborer sur des projets open source
-- 📫 Comment me contacter : [Email](mailto:alicia.stageit@gmail.com)
 
 ## 🌟 Langages et Outils :
 - **Langages** :
